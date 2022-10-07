@@ -1,0 +1,17 @@
+body{
+  background-color:black;
+}
+.heading {
+  color:wheat ;
+  text-align: center;
+
+}
+.row{
+  z-index: 2;
+  position: relative;
+}
+.particles{
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+}
